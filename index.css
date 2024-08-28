@@ -358,10 +358,12 @@
   }
 
   .u-section-2 .u-shape-1 {
+    height: 237px;
     margin-top: 386px;
   }
 
   .u-section-2 .u-shape-2 {
+    height: 294px;
     margin-top: 10px;
     margin-left: -10px;
     margin-right: -10px;
@@ -370,7 +372,7 @@
   .u-section-2 .u-shape-3 {
     height: 326px;
     width: 360px;
-    margin-top: -896px;
+    margin-top: -877px;
     margin-left: -10px;
     margin-right: -10px;
   }
